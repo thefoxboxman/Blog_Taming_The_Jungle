@@ -156,7 +156,7 @@ body {
 	/* body font family light(100), regular(400), bold(700) */
 	font-family: 'Roboto', sans-serif;
 	font-size: var(--s-3);
-	
+	width: 90%;
 	margin: auto;
 	/* body layout */
 	min-height: 100vh;
