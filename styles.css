@@ -1,17 +1,10 @@
 /* ************* index.html CSS ************ */
 
-body {
-    /* Fallback for browsers that don't support dvh */
-    max-width: 80%;
-    min-height: 100dvh;
-    display: flex;
-    flex-direction: column;
-  }
-  
 
 header{
     padding:1em;
     background-color: var(--clr-accent-100);
+    width: 100%;
 
 }
 
