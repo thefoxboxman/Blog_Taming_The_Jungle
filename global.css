@@ -102,10 +102,12 @@ select {
 /* Universal Selctor */
 * {
 	/* Colours */
-	--clr-accent-100: hsl(29,96%,56%); /* #fb8b24 */
+	--clr-accent-100: hsl(35, 44%, 83%); /* #E7D7C1 */
+	--clr-accent-200: hsl(16, 19%, 58%); /* #A78A7F */
+	--clr-accent-300: hsl(11, 17%, 38%); /* #735751 */
 
-	--clr-primary-400: hsl(315,97%,26%); /* #820263 */
-	--clr-primary-500: hsl(332,97%,43%); /* #d90368 */
+	--clr-primary-400: hsl(0, 49%, 50%); /* #BF4342 */
+	--clr-primary-500: hsl(4, 76%, 31%); /* #8C1C13*/
 
 	--clr-neutral-100: hsl(45,29%,97%); /* #FAF9F6 */
 	--clr-neutral-900: hsl(200,30%,8%); /* #0E161A */
