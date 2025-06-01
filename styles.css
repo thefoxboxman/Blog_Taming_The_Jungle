@@ -2,7 +2,7 @@
 
 body {
     /* Fallback for browsers that don't support dvh */
-    min-height: 100vh;
+    max-width: 80%;
     min-height: 100dvh;
     display: flex;
     flex-direction: column;
